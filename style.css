@@ -59,7 +59,7 @@ header {
 header h1 {
   width: 100%;
   background-color: var(--bg-terciary);
-  padding: 8px;
+  padding: 0.8rem;
 
   font-size: 4rem;
   font-weight: 400;
@@ -85,7 +85,7 @@ main p {
   line-height: 1.5rem;
   text-align: center;
 
-  margin-bottom: 3.2rem;
+  padding: 3rem 0;
 
   color: var(--text-color-dark);
 }
