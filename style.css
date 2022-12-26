@@ -46,20 +46,18 @@ img {
 
 header {
   text-align: center;
-
   background-color: var(--bg-secondary);
-  min-height: 28rem;
+
+  display: grid;
+  place-items: center;
 }
 
 .logo {
   padding: 3.2rem 0;
-  width: 13.7rem;
-  margin: 0 auto;
 }
 
 header h1 {
   width: 100%;
-  height: 4.9rem;
   background-color: var(--bg-terciary);
   padding: 8px;
 
