@@ -58,7 +58,7 @@ header .title {
   background-color: var(--bg-terciary);
   padding: 0.8rem;
 
-  font-size: 4rem;
+  font-size: var(--fs-heading);
   font-weight: 400;
   line-height: 3.4rem;
   letter-spacing: 0.05em;
@@ -80,7 +80,7 @@ main {
 
 main .text {
   font-family: var(--ff-secondary);
-  font-size: 2rem;
+  font-size: var(--fs-heading-sm);
   font-weight: 400;
   line-height: 2rem;
   text-align: center;
@@ -107,7 +107,7 @@ main .text {
   right: 1.6rem;
   width: 11.2rem;
 
-  font-size: 2rem;
+  font-size: var(--fs-heading-sm);
   font-weight: 400;
   line-height: 3.4rem;
   letter-spacing: 0.2rem;
