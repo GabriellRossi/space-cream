@@ -99,8 +99,6 @@ main .text {
 
 .cards .card {
   position: relative;
-  width: 32rem;
-  height: fit-content;
 }
 
 .cards .card span {
