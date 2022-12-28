@@ -292,7 +292,7 @@ footer {
   }
 
   .main-paragraph p {
-    font-size: calc(var(--fs-heading-smng-sm) + 0.4rem);
+    font-size: calc(var(--fs-heading-sm) + 0.4rem);
     font-family: var(--ff-secondary);
     line-height: 2.8rem;
     color: var(--text-color-white);
