@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/wdmZ7anioXAzt8oEfuC2yw/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Community)/duplicate>>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/wdmZ7anioXAzt8oEfuC2yw/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Community)/duplicate>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
